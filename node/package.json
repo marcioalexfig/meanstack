@@ -1,0 +1,14 @@
+{
+  "name": "projeto_mean",
+  "version": "1.0.0",
+  "description": "projeto de teste",
+  "main": "es01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
